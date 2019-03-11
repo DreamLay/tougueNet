@@ -19,5 +19,6 @@
 - system: MacOS Majave/Ubuntu18.04
 - packs: tensorflow, numpy, PLI, keras, cv2, h5py
 
-<img src=''>
+<img src='https://github.com/DreamLay/tougueNet/blob/master/example/train-volume.jpg'>
+<img src='https://github.com/DreamLay/tougueNet/blob/master/example/train-labels.jpg'>
 
