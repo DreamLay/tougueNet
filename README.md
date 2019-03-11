@@ -5,6 +5,7 @@
 - 由于无法收集到舌头裂纹数据集，故暂且使用细胞图。
 - 个人认为细胞图检测分要简单于舌头裂纹检测。
 - 网上对比了下正常与裂纹的舌头图片，正常舌头自然舒展不像手掌心本来就有纹路而舌头没有，所以舌头上的皱泽应该不会对裂纹检测造成太大的干扰。
+- 由于只有30张训练数据，所以数据增强很有必要
 
 
 ### 运行：
@@ -19,5 +20,11 @@
 - system: MacOS Majave/Ubuntu18.04
 - packs: tensorflow, numpy, PLI, keras, cv2, h5py
 
+### 其他
+- 建议在GTX1050ti以上进行训练，识别的话无所谓
 ![avatar](https://github.com/DreamLay/tougueNet/blob/master/example/train-volume.jpg)
 ![avatar](https://github.com/DreamLay/tougueNet/blob/master/example/train-labels.jpg)
+
+
+
+                                                                Author:Laijy
