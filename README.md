@@ -26,5 +26,4 @@
 ![avatar](https://github.com/DreamLay/tougueNet/blob/master/example/train-labels.jpg)
 
 
-
-                                                                Author:Laijy
+Author:Laijy
