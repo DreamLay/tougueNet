@@ -1,0 +1,4 @@
+data
+__pycache__
+h5_file
+*.hdf5
